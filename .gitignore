@@ -1,0 +1,14 @@
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+data/
+
+.history/
+
+.ipynb_checkpoints/
+
+.DS_Store
+Thumbs.db
