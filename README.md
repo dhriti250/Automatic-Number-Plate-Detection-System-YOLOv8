@@ -1,4 +1,4 @@
-# 🚗 Automatic Number Plate Recognition (ANPR)
+# 🚗 Automatic Number Plate Recognition. (ANPR)
 
 An end-to-end Automatic Number Plate Recognition (ANPR) system built using **Python, YOLOv8, and EasyOCR**.
 This project detects vehicles, extracts number plates, and reads plate text from images.
